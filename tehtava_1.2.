@@ -1,0 +1,4 @@
+HSKMBW-NMX0409:~ nico.paajanen$ docker images
+REPOSITORY          TAG                 IMAGE ID            CREATED             SIZE
+HSKMBW-NMX0409:~ nico.paajanen$ docker ps -a
+CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES
