@@ -1,0 +1,7 @@
+Last login: Mon Aug 17 21:29:54 on ttys001
+HSKMBW-NMX0409:~ nico.paajanen$ docker exec -it program bash
+root@cde31404b65f:/usr/app# tail -f ./logs.txt
+Mon, 17 Aug 2020 18:34:03 GMT
+Mon, 17 Aug 2020 18:34:06 GMT
+Secret message is:
+"Docker is easy"
